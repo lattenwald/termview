@@ -1,4 +1,4 @@
-# Detsview
+# Termview
 
 **Command line viewer of files with erlang terms**
 
